@@ -1,0 +1,8 @@
+.bg{
+    width: 400px;
+    height: 400px;
+    background-image: url(../img.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
